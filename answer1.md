@@ -1,7 +1,7 @@
-Buat branch release
-Buat branch feature-a
-Buat branch feature-c
-Buat branch bug-b
+Buat branch release dari branch master
+Buat branch feature-a dari branch release
+Buat branch feature-c dari branch release
+Buat branch bug-b dari branch release
 Di branch feature-a commit dan push fitur baru A
 Merge branch feature-a ke branch release
 Di branch feature-b commit dan push fitur baru C
